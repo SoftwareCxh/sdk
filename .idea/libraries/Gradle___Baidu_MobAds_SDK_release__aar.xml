@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :Baidu_MobAds_SDK-release:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00bbcb475dba6b25a4d1a7c62117fca/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00bbcb475dba6b25a4d1a7c62117fca/jars/libs/Baidu_MobAds_SDK.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00bbcb475dba6b25a4d1a7c62117fca/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

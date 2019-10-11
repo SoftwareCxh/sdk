@@ -1,1 +1,1 @@
-include ':app', ':juhesdk', ':gdtsdk', ':bdsdk'
+include ':app', ':juhesdk'
