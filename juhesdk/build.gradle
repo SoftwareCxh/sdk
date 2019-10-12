@@ -30,12 +30,12 @@ repositories {
 }
 
 dependencies {
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
-    implementation(name: 'open_ad_sdk', ext: 'aar')
-    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.6'
+    api fileTree(include: ['*.jar'], dir: 'libs')
+    api (name: 'open_ad_sdk', ext: 'aar')
+    api 'pl.droidsonroids.gif:android-gif-drawable:1.2.6'
     implementation 'com.android.support:appcompat-v7:27.0.0'
-    implementation (name:'GDTSDK.union.4.80.950', ext:'aar')
-    implementation(name:'Baidu_MobAds_SDK-release',ext:'aar')
+    api (name:'GDTSDK.union.4.80.950', ext:'aar')
+    api (name:'Baidu_MobAds_SDK-release',ext:'aar')
 
 
 
